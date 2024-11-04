@@ -86,6 +86,7 @@ function resetGame() {
     userSeq = []; 
     level = 0; 
     h2.innerText = `Press any key to start the game`; 
+}
 
 function triggerConfetti() {
     confetti({

@@ -36,9 +36,7 @@ h1, h2 {
     transition: background-color 0.3s;
 }
 
-.btn:hover {
-    background-color: #aaa;
-}
+
 .red{
     background-color: #d95980;
 }
@@ -50,4 +48,7 @@ h1, h2 {
 }
 .purple{
     background-color: #819ff9;
+}
+.flash{
+    background-color: white;
 }
